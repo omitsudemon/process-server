@@ -1,0 +1,41 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+/LastBuild*
+/NewBuild
+
+*.zip
+
+# Visual Studio / MonoDevelop generated files
+/*.sln
+/*.csproj
+/*.unityproj
+/*.suo
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+/Builds/
